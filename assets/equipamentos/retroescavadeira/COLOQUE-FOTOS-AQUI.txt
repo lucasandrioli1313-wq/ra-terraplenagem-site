@@ -1,1 +1,0 @@
-Adicione arquivos foto-1.jpg, foto-2.jpg, foto-3.jpg nesta pasta. Edite js/dados.js para alterar a lista de fotos.
