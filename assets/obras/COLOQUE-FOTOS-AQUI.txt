@@ -1,1 +1,0 @@
-Coloque fotos de obras aqui e edite js/dados.js para exibi-las.
