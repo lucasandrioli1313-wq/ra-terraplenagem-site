@@ -1,8 +1,0 @@
-ATUALIZACAO R.A. TERRAPLENAGEM - 20/10/2026
-
-1. Envie os arquivos do ZIP para a raiz do repositorio GitHub, preservando as pastas.
-2. A secao Trabalhe Conosco envia nome, contato, cidade, vaga e curriculo (anexo) via FormSubmit para r.aterra_plenagem@yahoo.com.br.
-3. IMPORTANTE: O responsavel pelo e-mail DEVE confirmar a ativacao inicial do FormSubmit no e-mail recebido. Sem isso, o formulario nao entregara candidaturas. Confira caixa de spam.
-4. O formulario depende do servico de terceiros FormSubmit e da internet; nao ha backend proprio nem garantia de entrega. Teste apos ativacao com um curriculo ficticio.
-5. A politica de privacidade foi atualizada para contemplar candidaturas. Confirme com seu responsavel por LGPD as praticas de retencao.
-6. Imagens da frota e dos servicos agora ampliam levemente ao passar o mouse.
