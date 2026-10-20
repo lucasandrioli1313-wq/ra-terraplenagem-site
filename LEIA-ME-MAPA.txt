@@ -1,0 +1,9 @@
+NOVA SEÇÃO: ONDE ATUAMOS
+
+Adicionada ao menu e ao site com mapa esquemático de Santa Catarina, região verde representando aproximadamente 200 km em linha reta desde Joinville, e lista de municípios.
+
+O desenho do estado é ilustrativo, não cartografia oficial, e a área não corresponde a municípios inteiros. Consulte a disponibilidade para cada cidade.
+
+Para publicar: envie todos os arquivos ao GitHub, especialmente index.html, css/estilo.css e assets/mapa-sc-atendimento.svg.
+
+O relógio ponto, fotos, logo e WhatsApp (47) 99974-8262 foram preservados.

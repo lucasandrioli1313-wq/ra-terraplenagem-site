@@ -1,0 +1,7 @@
+NOVA SEÇÃO FUNCIONÁRIOS - R.A. TERRAPLENAGEM
+
+A seção Funcionários foi adicionada ao menu e à página inicial, com botão que abre https://ponto.raterraplenagem.com.br/ em outra aba.
+
+Para publicar: envie o index.html e css/estilo.css atualizados ao GitHub, preservando os demais arquivos. Se quiser enviar o ZIP inteiro, mantenha a mesma estrutura e substitua os arquivos antigos.
+
+O sistema de relógio ponto não está embutido no site: o botão apenas direciona para o endereço informado.

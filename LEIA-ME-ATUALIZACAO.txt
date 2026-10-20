@@ -1,0 +1,10 @@
+CORRECAO DA GALERIA DE OBRAS - 15/10/2026
+
+Corrigido js/site.js: a lista SITE_DATA.obras contem nomes de arquivos (strings), nao objetos.
+Todas as 11 fotos em assets/obras agora usam seus caminhos corretos.
+
+Para atualizar: substitua o arquivo js/site.js no GitHub e faca Commit changes.
+O Render publicara automaticamente se Auto Deploy estiver ativo.
+Se necessario, atualize a pagina com Ctrl+F5.
+
+Este ZIP tambem inclui todos os arquivos e imagens do site.

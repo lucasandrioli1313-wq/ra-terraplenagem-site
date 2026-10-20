@@ -1,0 +1,9 @@
+MAPA DE SATÉLITE COM VISÃO 3D — R.A. TERRAPLENAGEM
+
+O site agora mostra mapa interativo com imagens de satélite, perspectiva 3D, área verde de 200 km em linha reta desde Joinville e lista de cidades de Santa Catarina e Paraná.
+
+Para publicar: envie index.html, css/estilo.css e js/mapa-3d.js ao GitHub, preservando os demais arquivos.
+
+O mapa depende de conexão com internet e carrega MapLibre (CDN), imagens de satélite Esri e dados de relevo de demonstração do MapLibre. O relevo pode não estar disponível em todos os locais; nesse caso o mapa continua inclinado com imagem de satélite. Para operação de alto tráfego, substitua o serviço de relevo de demonstração por um provedor com licença e capacidade adequadas.
+
+A lista de cidades não é exaustiva e o raio é geográfico (linha reta), não rodoviário. Consulte disponibilidade operacional.

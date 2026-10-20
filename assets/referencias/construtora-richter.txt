@@ -1,0 +1,1 @@
+Coloque aqui o logotipo oficial com nome construtora-richter.png (ou ajuste o caminho em js/dados.js).
